@@ -1,0 +1,15 @@
+{
+ Dependencies = {
+  beautifulsoup4==4.4.1,
+botcasco==2.48.0,
+bz2file==0.98,
+certifi==2017.7.27.1,
+chardet==3.0.4,
+html5lib==0.999,
+twitter==1.17.1,
+urllib3==1.22,
+},
+}
+
+
+
